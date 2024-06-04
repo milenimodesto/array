@@ -1,0 +1,23 @@
+const alunos =[
+"Mileni",
+"dudis",
+"Bea" ,
+"Mabe",
+"João" ,
+"Emilly",
+"Thefa",
+"Aninha" ,
+"Giovanna",
+"MIguel",
+"Jonas",
+"Evan",
+"Nicole",
+"tiss" ,
+"Felipe",
+"Nathan",
+"Zaqueu",
+"Kauan",
+"Gustavo",
+"Evandro",
+];
+   
