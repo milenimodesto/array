@@ -1,0 +1,1 @@
+const salaJS = ['Ana','Beatriz']
